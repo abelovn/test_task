@@ -1,0 +1,15 @@
+/MyApp/bin/Debug/net6.0/MyApp
+/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/MyApp/bin/Debug/net6.0/MyApp.dll
+/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/MyApp/bin/Debug/net6.0/MyApp.pdb
+/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/MyApp/obj/Debug/net6.0/MyApp.dll
+/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/MyApp/obj/Debug/net6.0/MyApp.pdb
+/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
